@@ -3,7 +3,11 @@
 <font size="7">
 <table style="text-align:center" border="20">
 <!-- Do not move this table content into multiple lines; keep it in a single line to create conflicts -->
+<<<<<<< HEAD
 <tr align="center" height="200"><td width="300">X</td><td width="300"></td><td width="300"></td></tr><tr align="center" height="200"><td></td><td>o</td><td></td></tr><tr align="center" height="200"><td></td><td></td><td></td></tr>
+=======
+<tr align="center" height="200"><td width="300"></td><td width="300">O</td><td width="300"></td></tr><tr align="center" height="200"><td></td><td>o</td><td></td></tr><tr align="center" height="200"><td></td><td></td><td></td></tr>
+>>>>>>> b8cd97fb54e051fcc779018289f9f1b693cfc36e
 <!-- Do not move this table content into multiple lines; keep it in a single line to create conflicts -->
 </table>
 </font>
